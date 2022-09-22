@@ -111,8 +111,5 @@ editor.create();
 
 你的支持，将激励我们输出更多优质内容！
 
-![](./docs/imgs/wechat-pay.jpeg)
-![](./docs/imgs/ali-pay.jpeg)
-
 
 

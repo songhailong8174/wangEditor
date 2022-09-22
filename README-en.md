@@ -90,5 +90,3 @@ If you are a chinese developer, you can join our QQ group or read [chinese](./RE
 
 Your support will encourage us to output more quality content.
 
-![](./docs/imgs/wechat-pay.jpeg)
-![](./docs/imgs/ali-pay.jpeg)
